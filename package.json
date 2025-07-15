@@ -1,6 +1,6 @@
 {
   "name": "@ryanrutkin/autological-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON Schema representing the components within autological",
   "types": "./lib/cjs/types/index.d.ts",
   "main": "./lib/cjs/index.js",
